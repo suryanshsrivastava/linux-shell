@@ -1,0 +1,1404 @@
+gedit
+jobs
+bg 7
+gedit
+jobs
+fg 2
+ls
+gedit
+ls
+jobs
+ls > out.txt
+
+
+
+
+echo "suryansh" > out.txt
+ls | wc
+ls
+ls
+cd 
+ls
+ls
+ls
+ls
+ls
+echo "suryansh" > out.txt
+echo "suryansh" > out.txt
+ls
+echo "suryansh" > out.txt
+ls
+cd 
+ls .
+ls .
+ls ..
+ls .
+ls ..
+cd ..
+ls .
+ls ..
+cd ..
+cd ~
+ ls
+ls
+ls | wc
+ls | wc
+ls
+ls | wc
+grep ".txt" | wc
+ls | wc
+ls | wc
+ls
+ls | wc
+grep ".txt" | wc
+ls | wc
+[Aquit
+ls
+ls
+cat history.txt
+cat history.txt | wc
+cat history.txt | wc
+cat history.txt | wc
+[Aquit
+cat history.txt | wc
+ls | wc
+echo hello > file.txt
+echo hello > file.txt
+cat file.txt
+echo hello > file.txt
+echo hello > file.txt
+echo hello > file.txt
+cat file.txt
+echo hello > file.txt
+cat file.txt
+seq 1 10 > file.txt
+echo hello > file.txt
+cat file.txt
+seq 1 10 > file.txt
+cat file.txt
+echo hello > file.txt
+echo hello > file.txt
+cat file.txt
+echo hello > file.txt
+cat file.txt
+seq 1 10 > file.txt
+echo hello > file.txt
+cat file.txt
+seq 1 10 > file.txt
+cat file.txt
+ls
+ls
+ls > file.txt
+ls
+ls > file.txt
+cat file.txt
+ls
+ls > file.txt
+cat file.txt
+seq 1 10 > file.txt
+ls
+ls > file.txt
+cat file.txt
+seq 1 10 > file.txt
+cat file.txt
+more file.txt | wc
+more file.txt | wc
+echo hello > temp.txt
+grep "hello" temp.txt | cat file.txt | wc
+ls | grep *.txt > out.txt
+more file.txt | wc
+echo hello > temp.txt
+grep "hello" temp.txt | cat file.txt | wc
+ls | grep *.txt > out.txt
+cat out.txt
+more file.txt | wc
+echo hello > temp.txt
+grep "hello" temp.txt | cat file.txt | wc
+ls | grep *.txt > out.txt
+cat out.txt
+ls 
+ls | grep *.txt
+more file.txt | wc
+echo hello > temp.txt
+grep "hello" temp.txt | cat file.txt | wc
+ls | grep *.txt > out.txt
+cat out.txt
+ls 
+ls | grep *.txt
+grep *.txt
+ls | grep *.txt
+more file.txt | wc
+echo hello > temp.txt
+grep "hello" temp.txt | cat file.txt | wc
+ls | grep *.txt > out.txt
+cat out.txt
+ls 
+ls | grep *.txt
+grep *.txt
+ls | grep *.txt
+ls 
+cat < file.txt | wc -l temp.txt
+more file.txt | wc
+echo hello > temp.txt
+grep "hello" temp.txt | cat file.txt | wc
+ls | grep *.txt > out.txt
+cat out.txt
+ls 
+ls | grep *.txt
+grep *.txt
+ls | grep *.txt
+ls 
+cat < file.txt | wc -l temp.txt
+ls
+cat file.txt | temp.txt
+more file.txt | wc
+echo hello > temp.txt
+grep "hello" temp.txt | cat file.txt | wc
+ls | grep *.txt > out.txt
+cat out.txt
+ls 
+ls | grep *.txt
+grep *.txt
+ls | grep *.txt
+ls 
+cat < file.txt | wc -l temp.txt
+ls
+cat file.txt | temp.txt
+cat file.txt > temp.txt
+more file.txt | wc
+echo hello > temp.txt
+grep "hello" temp.txt | cat file.txt | wc
+ls | grep *.txt > out.txt
+cat out.txt
+ls 
+ls | grep *.txt
+grep *.txt
+ls | grep *.txt
+ls 
+cat < file.txt | wc -l temp.txt
+ls
+cat file.txt | temp.txt
+cat file.txt > temp.txt
+cat temp.txt
+more file.txt | wc
+echo hello > temp.txt
+grep "hello" temp.txt | cat file.txt | wc
+ls | grep *.txt > out.txt
+cat out.txt
+ls 
+ls | grep *.txt
+grep *.txt
+ls | grep *.txt
+ls 
+cat < file.txt | wc -l temp.txt
+ls
+cat file.txt | temp.txt
+cat file.txt > temp.txt
+cat temp.txt
+grep "10"
+more file.txt | wc
+echo hello > temp.txt
+grep "hello" temp.txt | cat file.txt | wc
+ls | grep *.txt > out.txt
+cat out.txt
+ls 
+ls | grep *.txt
+grep *.txt
+ls | grep *.txt
+ls 
+cat < file.txt | wc -l temp.txt
+ls
+cat file.txt | temp.txt
+cat file.txt > temp.txt
+cat temp.txt
+grep "10"
+grep "10" .
+more file.txt | wc
+echo hello > temp.txt
+grep "hello" temp.txt | cat file.txt | wc
+ls | grep *.txt > out.txt
+cat out.txt
+ls 
+ls | grep *.txt
+grep *.txt
+ls | grep *.txt
+ls 
+cat < file.txt | wc -l temp.txt
+ls
+cat file.txt | temp.txt
+cat file.txt > temp.txt
+cat temp.txt
+grep "10"
+grep "10" .
+grep "10" *.txt
+ls | grep "10"
+ls
+ls
+ls
+ls | grep "10"
+ls
+ls
+ls | grep "10"
+ls
+ls
+ls
+ls | grep "10"
+ls
+grep "10" file.txt
+ls
+ls
+ls | grep "10"
+ls
+grep "10" file.txt
+cat file.txt
+ls
+ls
+ls | grep "10"
+ls
+grep "10" file.txt
+cat file.txt
+overkill
+
+ls
+ls
+ls | grep "10"
+ls
+grep "10" file.txt
+cat file.txt
+overkill
+
+pinfo
+ls
+ls
+ls | grep "10"
+ls
+grep "10" file.txt
+cat file.txt
+overkill
+
+pinfo
+jobs
+ls
+ls
+ls | grep "10"
+ls
+grep "10" file.txt
+cat file.txt
+overkill
+
+pinfo
+jobs
+kjob 1 9
+ls
+ls
+ls | grep "10"
+ls
+grep "10" file.txt
+cat file.txt
+overkill
+
+pinfo
+jobs
+kjob 1 9
+kjob
+ls
+ls
+ls | grep "10"
+ls
+grep "10" file.txt
+cat file.txt
+overkill
+
+pinfo
+jobs
+kjob 1 9
+kjob
+kjobs
+ls
+ls
+ls | grep "10"
+ls
+grep "10" file.txt
+cat file.txt
+overkill
+
+pinfo
+jobs
+kjob 1 9
+kjob
+kjobs
+kjobs 1 9
+ls
+ls
+ls | grep "10"
+ls
+grep "10" file.txt
+cat file.txt
+overkill
+
+pinfo
+jobs
+kjob 1 9
+kjob
+kjobs
+kjobs 1 9
+jobs
+ls
+ls
+ls | grep "10"
+ls
+grep "10" file.txt
+cat file.txt
+overkill
+
+pinfo
+jobs
+kjob 1 9
+kjob
+kjobs
+kjobs 1 9
+jobs
+jobs
+seq 1 10 > file.txt
+seq 1 10 > file.txt
+echo hello world > file.txt
+seq 1 10 > file.txt
+echo hello world > file.txt
+ls
+seq 1 10 > file.txt
+echo hello world > file.txt
+ls
+ls -l
+seq 1 10 > file.txt
+echo hello world > file.txt
+ls
+ls -l
+cat file.txt
+seq 1 10 > file.txt
+echo hello world > file.txt
+ls
+ls -l
+cat file.txt
+seq 1 10 > num.txt
+seq 1 10 > file.txt
+echo hello world > file.txt
+ls
+ls -l
+cat file.txt
+seq 1 10 > num.txt
+cat num.txt
+seq 1 10 > file.txt
+echo hello world > file.txt
+ls
+ls -l
+cat file.txt
+seq 1 10 > num.txt
+cat num.txt
+sort -nr < num.txt
+seq 1 10 > file.txt
+echo hello world > file.txt
+ls
+ls -l
+cat file.txt
+seq 1 10 > num.txt
+cat num.txt
+sort -nr < num.txt
+num.txt > sort -nr
+seq 1 10 > file.txt
+echo hello world > file.txt
+ls
+ls -l
+cat file.txt
+seq 1 10 > num.txt
+cat num.txt
+sort -nr < num.txt
+num.txt > sort -nr
+cat num.txt
+cat num.txt | sort -nr
+seq 1 10 > file.txt
+echo hello world > file.txt
+ls
+ls -l
+cat file.txt
+seq 1 10 > num.txt
+cat num.txt
+sort -nr < num.txt
+num.txt > sort -nr
+cat num.txt
+cat num.txt | sort -nr
+sort -nr < num.txt
+sort -nr < num.txt
+sort -nr < num.txt
+ls
+sort -nr < num.txt
+ls
+sort -nr < num.txt
+sort -nr < num.txt
+ls
+sort -nr < num.txt
+sort -nr < temp.txt
+sort -nr < num.txt
+ls
+sort -nr < num.txt
+sort -nr < temp.txt
+seq 11 20 >> num.txt
+seq 11 20 >> num.txt
+seq 11 20 >> num.txt
+cat num.txt
+echo 12+5 | bc
+seq 11 20 >> num.txt
+cat num.txt
+echo 12+5 | bc
+echo a; echo b; echo test | wc -c
+seq 11 20 >> num.txt
+cat num.txt
+echo 12+5 | bc
+echo a; echo b; echo test | wc -c
+seq 11 21 > 1.txt
+seq 11 20 >> num.txt
+cat num.txt
+echo 12+5 | bc
+echo a; echo b; echo test | wc -c
+seq 11 21 > 1.txt
+cat 1.txt
+cat 1.txt | grep 1 | grep 2
+ls | wc -l | abcd
+seq 11 20 >> num.txt
+cat num.txt
+echo 12+5 | bc
+echo a; echo b; echo test | wc -c
+seq 11 21 > 1.txt
+cat 1.txt
+cat 1.txt | grep 1 | grep 2
+ls | wc -l | abcd
+sleep 2
+seq 11 20 >> num.txt
+cat num.txt
+echo 12+5 | bc
+echo a; echo b; echo test | wc -c
+seq 11 21 > 1.txt
+cat 1.txt
+cat 1.txt | grep 1 | grep 2
+ls | wc -l | abcd
+sleep 2
+gedit &
+
+
+seq 11 20 >> num.txt
+cat num.txt
+echo 12+5 | bc
+echo a; echo b; echo test | wc -c
+seq 11 21 > 1.txt
+cat 1.txt
+cat 1.txt | grep 1 | grep 2
+ls | wc -l | abcd
+sleep 2
+gedit &
+
+
+seq 1 10 > num.txt
+tail -n 6 < num.txt | head -n 3 > a.txt
+tail -n 6 < num.txt
+tail -n 6 < num.txt
+tail -n 6 < num.txt | haed -n 3 a.txt
+tail -n 6 < num.txt | head -n 3 a.txt
+tail -n 6 < num.txt
+tail -n 6 < num.txt | haed -n 3 a.txt
+tail -n 6 < num.txt | head -n 3 a.txt
+cat a.txt
+tail -n 6 < num.txt
+tail -n 6 < num.txt | haed -n 3 a.txt
+tail -n 6 < num.txt | head -n 3 a.txt
+cat a.txt
+cat num.txt
+tail -n 6 < num.txt
+tail -n 6 < num.txt | haed -n 3 a.txt
+tail -n 6 < num.txt | head -n 3 a.txt
+cat a.txt
+cat num.txt
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2
+tail -n 6 < num.txt
+tail -n 6 < num.txt | haed -n 3 a.txt
+tail -n 6 < num.txt | head -n 3 a.txt
+cat a.txt
+cat num.txt
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2 >> a.txt
+tail -n 6 < num.txt
+tail -n 6 < num.txt | haed -n 3 a.txt
+tail -n 6 < num.txt | head -n 3 a.txt
+cat a.txt
+cat num.txt
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2 >> a.txt
+cat a .txt
+tail -n 6 < num.txt
+tail -n 6 < num.txt | haed -n 3 a.txt
+tail -n 6 < num.txt | head -n 3 a.txt
+cat a.txt
+cat num.txt
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2 >> a.txt
+cat a .txt
+cat a.txt
+tail -n 6 < num.txt
+tail -n 6 < num.txt | haed -n 3 a.txt
+tail -n 6 < num.txt | head -n 3 a.txt
+cat a.txt
+cat num.txt
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2 >> a.txt
+cat a .txt
+cat a.txt
+cat a.txt
+cat < some.txt | wc -l > output.txt
+tail -n 6 < num.txt
+tail -n 6 < num.txt | haed -n 3 a.txt
+tail -n 6 < num.txt | head -n 3 a.txt
+cat a.txt
+cat num.txt
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2 >> a.txt
+cat a .txt
+cat a.txt
+cat a.txt
+cat < some.txt | wc -l > output.txt
+sleep 100
+tail -n 6 < num.txt
+tail -n 6 < num.txt | haed -n 3 a.txt
+tail -n 6 < num.txt | head -n 3 a.txt
+cat a.txt
+cat num.txt
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2 >> a.txt
+cat a .txt
+cat a.txt
+cat a.txt
+cat < some.txt | wc -l > output.txt
+sleep 100
+ps
+tail -n 6 < num.txt
+tail -n 6 < num.txt | haed -n 3 a.txt
+tail -n 6 < num.txt | head -n 3 a.txt
+cat a.txt
+cat num.txt
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2 >> a.txt
+cat a .txt
+cat a.txt
+cat a.txt
+cat < some.txt | wc -l > output.txt
+sleep 100
+ps
+sleep 100
+tail -n 6 < num.txt
+tail -n 6 < num.txt | haed -n 3 a.txt
+tail -n 6 < num.txt | head -n 3 a.txt
+cat a.txt
+cat num.txt
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2 >> a.txt
+cat a .txt
+cat a.txt
+cat a.txt
+cat < some.txt | wc -l > output.txt
+sleep 100
+ps
+sleep 100
+ps
+tail -n 6 < num.txt
+tail -n 6 < num.txt | haed -n 3 a.txt
+tail -n 6 < num.txt | head -n 3 a.txt
+cat a.txt
+cat num.txt
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2
+seq 11 21 > 1.txt
+grep 1 < 1.txt | grep 2 >> a.txt
+cat a .txt
+cat a.txt
+cat a.txt
+cat < some.txt | wc -l > output.txt
+sleep 100
+ps
+sleep 100
+ps
+setenv test hi
+env | grep test
+unsetenv test
+unsetenv test
+env
+unsetenv test
+env
+setenv test hi
+unsetenv test
+env
+setenv test hi
+unsetenv test
+unsetenv test
+env
+setenv test hi
+unsetenv test
+unsetenv
+env | grep test
+unsetenv test
+env
+setenv test hi
+unsetenv test
+unsetenv
+env | grep test
+setenv test hi
+env | grep test
+unsetenv test
+env
+setenv test hi
+unsetenv test
+unsetenv
+env | grep test
+setenv test hi
+env | grep test
+unsetenv test
+env | grep test
+unsetenv test
+env
+setenv test hi
+unsetenv test
+unsetenv
+env | grep test
+setenv test hi
+env | grep test
+unsetenv test
+env | grep test
+unsetenv
+unsetenv test
+env
+setenv test hi
+unsetenv test
+unsetenv
+env | grep test
+setenv test hi
+env | grep test
+unsetenv test
+env | grep test
+unsetenv
+setenv test hi
+unsetenv test
+env
+setenv test hi
+unsetenv test
+unsetenv
+env | grep test
+setenv test hi
+env | grep test
+unsetenv test
+env | grep test
+unsetenv
+setenv test hi
+unsetenv
+env | grep test
+unsetenv test
+env
+setenv test hi
+unsetenv test
+unsetenv
+env | grep test
+setenv test hi
+env | grep test
+unsetenv test
+env | grep test
+unsetenv
+setenv test hi
+unsetenv
+env | grep test
+sleep 100
+unsetenv test
+env
+setenv test hi
+unsetenv test
+unsetenv
+env | grep test
+setenv test hi
+env | grep test
+unsetenv test
+env | grep test
+unsetenv
+setenv test hi
+unsetenv
+env | grep test
+sleep 100
+make
+sleep 100
+sleep 100
+jpbs
+sleep 100
+jpbs
+jobs
+sleep 100
+jpbs
+jobs
+ps
+sleep 100
+jpbs
+jobs
+ps
+pinfo 5026
+sleep 100
+sleep 100
+jobs
+sleep 100
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100 &
+sleep 100
+jobs
+sleep 100 &
+jobs
+sleep 100
+jobs
+sleep 100 &
+jobs
+sleep 100 &
+sleep 100
+jobs
+sleep 100 &
+jobs
+sleep 100 &
+jobs
+sleep 100
+jobs
+sleep 100 &
+jobs
+sleep 100 &
+jobs
+sleep 100
+sleep 100
+jobs
+sleep 100 &
+jobs
+sleep 100 &
+jobs
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100 &
+jobs
+sleep 100 &
+jobs
+sleep 100
+jobs
+ps
+sleep 100
+jobs
+sleep 100 &
+jobs
+sleep 100 &
+jobs
+sleep 100
+jobs
+ps
+joobs
+sleep 100
+jobs
+sleep 100 &
+jobs
+sleep 100 &
+jobs
+sleep 100
+jobs
+ps
+joobs
+jobs
+sleep 100
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100 &
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100 &
+jobs
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100 &
+jobs
+jobs
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100 &
+jobs
+jobs
+gedit &
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100 &
+jobs
+jobs
+gedit &
+jobs
+
+
+
+
+
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100 &
+jobs
+jobs
+gedit &
+jobs
+
+
+
+
+
+jobs
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100 &
+jobs
+jobs
+gedit &
+jobs
+
+
+
+
+
+jobs
+jobs
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100 &
+jobs
+jobs
+gedit &
+jobs
+
+
+
+
+
+jobs
+jobs
+jobs
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100 &
+jobs
+jobs
+gedit &
+jobs
+
+
+
+
+
+jobs
+jobs
+jobs
+gedit &
+sleep 100
+jobs
+sleep 100
+jobs
+sleep 100 &
+jobs
+jobs
+gedit &
+jobs
+
+
+
+
+
+jobs
+jobs
+jobs
+gedit &
+jobs
+gedit &
+gedit &
+jobs
+gedit &
+jobs
+sleep &
+gedit &
+gedit &
+sleep 10 &
+gedit &
+sleep 10 &
+jobs
+gedit &
+sleep 10 &
+jobs
+ps
+gedit &
+sleep 10 &
+jobs
+ps
+overkill
+gedit &
+sleep 10 &
+jobs
+ps
+overkill
+ps
+gedit &
+sleep 10 &
+jobs
+ps
+overkill
+ps
+jobs
+gedit &
+sleep 10 &
+jobs
+ps
+overkill
+ps
+jobs
+jobs
+gedit &
+sleep 10 &
+jobs
+ps
+overkill
+ps
+jobs
+jobs
+sleep 10
+sleep 10
+sleep 10
+kjobs
+sleep 10
+kjobs
+ps
+sleep 10
+kjobs
+ps
+kjob 5726 18
+sleep 10
+sleep 10
+kjobs 1 18
+
+
+
+sleep 10
+kjobs 1 18
+
+
+
+ps
+sleep 10
+kjobs 1 18
+
+
+
+ps
+jobs
+
+
+
+
+
+sleep 10
+kjobs 1 18
+
+
+
+ps
+jobs
+
+
+
+
+
+sleep 10
+
+
+
+
+
+
+sleep 10
+sleep 10
+jobs
+sleep 10
+sleep 10
+jobs
+sleep 10
+jobs
+kjobs 2 18
+sleep 10
+jobs
+kjobs 2 18
+ps
+sleep 10
+jobs
+kjobs 2 18
+ps
+jobs
+
+
+
+
+
+
+sleep 10
+jobs
+kjobs 2 18
+ps
+jobs
+
+
+
+
+
+
+ls
+
+
+
+
+
+gedit &
+gedit &
+jobs
+gedit &
+jobs
+kjobs 1 18
+gedit &
+jobs
+kjobs 1 18
+jpobs
+gedit &
+jobs
+kjobs 1 18
+jpobs
+jobs
+gedit &
+jobs
+kjobs 1 18
+jpobs
+jobs
+kjobs 1 18
+gedit &
+jobs
+kjobs 1 18
+jpobs
+jobs
+kjobs 1 18
+ls
+gedit &
+jobs
+kjobs 1 18
+jpobs
+jobs
+kjobs 1 18
+ls
+ps
+gedit &
+gedit &
+ls
+gedit &
+ls
+ps
+gedit &
+ls
+ps
+jobs
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+jobs
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+jobs
+overkill
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+jobs
+overkill
+gedit &
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+jobs
+overkill
+gedit &
+kjobs 1 9
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+jobs
+overkill
+gedit &
+kjobs 1 9
+jobs
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+jobs
+overkill
+gedit &
+kjobs 1 9
+jobs
+ps
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+jobs
+overkill
+gedit &
+kjobs 1 9
+jobs
+ps
+kjobs 1 9
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+jobs
+overkill
+gedit &
+kjobs 1 9
+jobs
+ps
+kjobs 1 9
+jobs
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+jobs
+overkill
+gedit &
+kjobs 1 9
+jobs
+ps
+kjobs 1 9
+jobs
+gedit &
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+jobs
+overkill
+gedit &
+kjobs 1 9
+jobs
+ps
+kjobs 1 9
+jobs
+gedit &
+kjobs 1 9
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+jobs
+overkill
+gedit &
+kjobs 1 9
+jobs
+ps
+kjobs 1 9
+jobs
+gedit &
+kjobs 1 9
+gedit &
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+jobs
+overkill
+gedit &
+kjobs 1 9
+jobs
+ps
+kjobs 1 9
+jobs
+gedit &
+kjobs 1 9
+gedit &
+kjobs 1 18
+gedit &
+ls
+ps
+jobs
+kjobs 1 18
+jobs
+jobs
+overkill
+gedit &
+kjobs 1 9
+jobs
+ps
+kjobs 1 9
+jobs
+gedit &
+kjobs 1 9
+gedit &
+kjobs 1 18
+jobs
+gedit &
+sleep 100 &
+sleep 100 &
+jobs
+sleep 100 &
+jobs
+fg 1
+sleep 100 &
+jobs
+fg 1
+jobs
+sleep 100 &
+sleep 100 &
+jobs
+sleep 100 &
+jobs
+fg 1
+sleep 100 &
+jobs
+fg 1
+jobs
+sleep 100 &
+jobs
+fg 1
+jobs
+bg 1
+sleep 100 &
+jobs
+fg 1
+jobs
+bg 1
+jobs
+se 1 10 > num.txt
+se 1 10 > num.txt
+seq 1 10 > num.txt
+se 1 10 > num.txt
+seq 1 10 > num.txt
+cat num.txt
+se 1 10 > num.txt
+seq 1 10 > num.txt
+cat num.txt
+sort -nr < num.txt
+se 1 10 > num.txt
+seq 1 10 > num.txt
+cat num.txt
+sort -nr < num.txt
+sort -nr < temp.txt
+se 1 10 > num.txt
+seq 1 10 > num.txt
+cat num.txt
+sort -nr < num.txt
+sort -nr < temp.txt
+cat temp.txt
+se 1 10 > num.txt
+seq 1 10 > num.txt
+cat num.txt
+sort -nr < num.txt
+sort -nr < temp.txt
+cat temp.txt
+rm temp.txt
+se 1 10 > num.txt
+seq 1 10 > num.txt
+cat num.txt
+sort -nr < num.txt
+sort -nr < temp.txt
+cat temp.txt
+rm temp.txt
+sort -nr < temp.txt
